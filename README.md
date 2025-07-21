@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi I am Saachi Krishna Dhumal
 🚀 I’m currently working on AI-powered applications using Python, React, Node.js, and Express.js, while also exploring advanced technologies in machine learning and data analytics.<br>🛠️ I’m committed to mastering AI, Machine Learning, Advanced Python, and Advanced Java, honing my expertise through real-world projects and continuous learning.<br>🤝 I’m eager to collaborate with other developers and AI enthusiasts on open-source projects, hackathons, and innovative tech communities.<br>💬 Let’s connect! I’m always happy to meet people who share a passion for AI, full-stack development, and emerging technologies.<br>🚀 I’m seeking collaboration with software development experts to scale innovative ideas into meaningful solutions.<br>👨‍💻 I’m an expert in Python, AI/ML, Advanced Java (Spring Boot), React, Node.js, Web Development, and Software Engineering best practices.<br>🔴 Pronouns: She/Her
 
 
